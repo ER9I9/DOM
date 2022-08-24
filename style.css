@@ -1,0 +1,317 @@
+img{
+    width: 200px;
+    height: 150px;
+}
+ .card-text{
+    width: 250px;
+    height: 60px;
+ }
+
+ .topbar{
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: "Times New Roman", Times, serif;
+    background-color: #F0EBE3;
+    
+ }
+ .msg{
+    padding-top: 30px;
+ }
+ .pizzascards{
+    padding-top: 30px;
+    background-color: #F9F3EE;
+ }
+ .container{
+    padding-bottom: 30px;
+ }
+
+
+
+
+
+
+ form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 10px;
+  }
+  
+  .value-button {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .value-button:hover {
+    cursor: pointer;
+  }
+  
+  form #decrease1 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  form #increase1 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  
+  form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  input#number1 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+
+  form #decrease2 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase2 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number2 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease3 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase3 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number3 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease4 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase4 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number4 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease5 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase5 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number5 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease6 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase6 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number6 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease7 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase7 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number7 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease8{
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase8 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number8 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+  form #decrease9 {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  form #increase9 {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  input#number9 {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  .btn {
+    display: flex;
+    align-items: right;
+    background: none;
+    border: 1px solid lighten(gray, 24%);
+    height: 48px;
+    padding: 0 24px 0 16px;
+    letter-spacing: .25px;
+    border-radius: 24px;
+    cursor: pointer;
+    
+  }
+  
+  .btn-delete {
+    font-size: 16px;
+    color: red;
+    position: relative;
+    bottom: 47px;
+    left: 150px;
+ 
+  }
+  
+
+
+.hearty{
+  width: 45px;
+  height: 50px;
+  float: right;
+}
+
+
+
+
+
+
+  
